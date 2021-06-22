@@ -1,2 +1,4 @@
-# ShapeAI_Data_Analytics_Dashboard_Excel_Bootcamp_Project
+# ShapeAI Data Analytics Dashboard Project
 This Repository contains the Excel file of Sales Data with Responsive Data Visualization
+This Project is a successful outcome of the 7 Days Bootcamp on <b>Data Analytics & Dashboard</b>.
+<br> The bootcamp was taken by <ins>Mr. Dipayan Ghosal</ins>, Ex-Intern at <i>Amazon</i>
